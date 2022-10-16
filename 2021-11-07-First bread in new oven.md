@@ -39,4 +39,4 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 The spring was great, but lower the temperature to 200&deg;C for the last 20 minutes next time. The crust got a little too dark.
 
-!["image"](images/bread211107.jpg | width=50)
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread211107.jpg" alt="bread211107" width="400"/>
