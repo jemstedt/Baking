@@ -40,5 +40,5 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 Great! But I still need to practice my scoring.
 
-<img src="../../assets/images/bread220127.jpg" alt="bread220127" width="400"/>
+!["image"](images/bread220127.jpg)
 

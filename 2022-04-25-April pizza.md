@@ -7,7 +7,7 @@ categories:
 
 Trying the recipe in this [youtube video](https://www.youtube.com/watch?v=MH-EClQB8As)
 
-<img src="../../assets/images/pizza220425.jpg" alt="pizza220425" width="50%"/>
+!["image"](images/pizza220425.jpg)
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

@@ -40,5 +40,5 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 Okay, but I burned it because I forgot to lower the temp. 
 
-<img src="../../assets/images/bread220302.jpg" alt="bread220302" width="400"/>
+!["image"](images/bread220302.jpg)
 

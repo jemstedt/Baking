@@ -5,7 +5,7 @@ categories:
   - Crafts
 ---
 
-<img src="../../assets/images/bread220327.jpg" alt="bread220327" width="50%"/>
+!["image"](images/bread220327.jpg)
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1
