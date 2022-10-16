@@ -5,7 +5,7 @@ categories:
   - Crafts
 ---
 
-<img src="../../assets/images/bread220405.jpg" alt="bread220405" width="50%"/>
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread220405.jpg" alt="bread220405" width="50%"/>
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

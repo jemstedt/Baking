@@ -41,5 +41,5 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 Great! But I still need to practice my scoring.
 
-<img src="../../assets/images/bread211230a.jpg" alt="bread211230a" width="400"/>
-<img src="../../assets/images/bread211230b.jpg" alt="bread211230b" width="400"/>
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread211230a.jpg" alt="bread211230a" width="400"/>
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread211230b.jpg" alt="bread211230b" width="400"/>

@@ -41,4 +41,4 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 The bulk ferment might have been a bit too long. I think it about dubbled in size, which is a little to much.
 
-<img src="../../assets/images/bread211223.jpg" alt="bread211223" width="400"/>
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread211223.jpg" alt="bread211223" width="400"/>

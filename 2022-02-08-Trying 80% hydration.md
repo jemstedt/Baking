@@ -41,5 +41,5 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 Great! But I think the bulk ferment could have been shorter. 
 
-<img src="../../assets/images/bread220208.jpg" alt="bread220208" width="400"/>
+<img src="https://github.com/jemstedt/baking/blob/main/images/bread220208.jpg" alt="bread220208" width="400"/>
 
