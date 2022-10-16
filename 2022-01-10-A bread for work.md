@@ -41,5 +41,5 @@ Heated the oven to 250&deg;C (482&deg;F) with heat from bottom and top, not usin
 ### Result
 A bit flat. A small ear, but not like the earlier ones. It probably overproofed in the long proof in the fridge.
 
-!["image"](images/bread220110.jpg)
+<img src="../../assets/images/bread220110.jpg" alt="bread220110" width="400"/>
 

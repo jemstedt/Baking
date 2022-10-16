@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=0Z3ae1vPNQ0
     Jäste över natten i kylen från ca 14:30 till ca 8. Jäste jättemycket i kylen och blev nästan ingen oven spring.
     Körde stora grytan som lock. Värmde sten, gryta och ugn till 280 C i 50 min och sen in med brödet i 20 min och sen sänkte jag till 200 grader och körde i 20 min till utan lock.
 
-!["image"](images/bread210814.jpeg)
+<img src="../../assets/images/bread210814.jpeg" alt="bread210814" width="200"/>
 
 ### 44. 21-08-09 - 21-08-08 - ca 75% vatten, 1 bröd ingen knådning! Blev överjäst, så jag la det i avlång form. Vilade över natten i kylen.
     300 g vete spec
@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=0Z3ae1vPNQ0
     Gjorde preshape, vilade degen i ca 30 min och sen en final shape till en batard 
     Körde stora grytan som lock. Värmde sten, gryta och ugn till 280 C i 50 min och sen sänkte jag till 245 C i 20 och sen 200 i 20 utan lock.
 
-!["image"](images/bread210528.jpg" alt="bread210528" width="200"/>
+<img src="../../assets/images/bread210528.jpg" alt="bread210528" width="200"/>
 
     Blev superbra! :D
 ### 39. 21-03-27 - 21-03-28 - 70% vatten, 1 bröd + 2 baguetter (hälften så mycket deg som brödet)
