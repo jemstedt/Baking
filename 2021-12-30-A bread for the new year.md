@@ -1,9 +1,4 @@
----
-title: "A bread for the new year"
-excerpt: "Trying to use spelt for the second time"
-categories:
-  - Crafts
----
+# A bread for the new year
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

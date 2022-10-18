@@ -1,9 +1,4 @@
----
-title: "April Pizza"
-excerpt: "Trying to wait with the shaping until I the bake"
-categories:
-  - Crafts
----
+# April Pizza
 
 Trying the recipe in this [youtube video](https://www.youtube.com/watch?v=MH-EClQB8As)
 

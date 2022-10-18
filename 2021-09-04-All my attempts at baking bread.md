@@ -1,9 +1,5 @@
----
-title: "My old bread baking log"
-excerpt: "The old file in which I logged all my attempts to bake bread"
-categories:
-  - Crafts
----
+# My old bread baking log
+
 ## Standardrecept
 https://www.bakewithjack.co.uk/blog-1/2018/7/5/sourdough-loaf-for-beginners
 https://foodgeek.dk/en/artisan-sourdough-bread-recipe-an-easy-recipe-for-crispy-bread/

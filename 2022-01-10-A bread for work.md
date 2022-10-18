@@ -1,9 +1,4 @@
----
-title: "A bread for work"
-excerpt: "Second day at the new work bread"
-categories:
-  - Crafts
----
+# A bread for work
 
 ## Day 1
 ### Feeding the starter during the morning

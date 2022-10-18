@@ -1,9 +1,4 @@
----
-title: "Pizza! Again!"
-excerpt: "Less wet this time"
-categories:
-  - Crafts
----
+# Pizza! Again!
 
 Trying the recipe in this [youtube video](https://www.youtube.com/watch?v=MH-EClQB8As)
 

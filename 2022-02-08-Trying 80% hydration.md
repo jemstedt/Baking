@@ -1,9 +1,4 @@
----
-title: "Trying 80% hydration"
-excerpt: "Trying a higher hydration"
-categories:
-  - Crafts
----
+# Trying 80% hydration
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

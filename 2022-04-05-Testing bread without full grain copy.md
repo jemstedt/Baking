@@ -1,9 +1,4 @@
----
-title: "Testing to Make Bread Without Full Grain"
-excerpt: "Maybe it's better!"
-categories:
-  - Crafts
----
+# Testing to Make Bread Without Full Grain
 
 <img src="https://github.com/jemstedt/baking/blob/main/images/bread220405.jpg" alt="bread220405" width="50%"/>
 

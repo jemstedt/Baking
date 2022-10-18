@@ -1,9 +1,4 @@
----
-title: "First bread in the new oven"
-excerpt: "And it was good"
-categories:
-  - Crafts
----
+# First bread in the new oven
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

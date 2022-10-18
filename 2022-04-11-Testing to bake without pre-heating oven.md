@@ -1,9 +1,4 @@
----
-title: "Testing to not pre-heat oven  "
-excerpt: "Maybe it's better? (It was worse)"
-categories:
-  - Crafts
----
+# Testing to not pre-heat oven
 
 <img src="https://github.com/jemstedt/baking/blob/main/images/bread220411.jpg" alt="bread220411" width="50%"/>
 

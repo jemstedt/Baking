@@ -1,9 +1,4 @@
----
-title: "March bread"
-excerpt: "To be eaten with tzatziki"
-categories:
-  - Crafts
----
+# March bread
 
 <img src="https://github.com/jemstedt/baking/blob/main/images/bread220327.jpg" alt="bread220327" width="50%"/>
 

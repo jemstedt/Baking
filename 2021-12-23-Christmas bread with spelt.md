@@ -1,9 +1,4 @@
----
-title: "Christmas bread with spelt"
-excerpt: "Trying to use spelt for the first time"
-categories:
-  - Crafts
----
+# Christmas bread with spelt
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

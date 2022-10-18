@@ -1,9 +1,4 @@
----
-title: "I wanted more bread"
-excerpt: "Bread is good"
-categories:
-  - Crafts
----
+# I wanted more bread
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

@@ -1,9 +1,4 @@
----
-title: "Hasty evening bread"
-excerpt: "I wanted bread"
-categories:
-  - Crafts
----
+# Hasty evening bread
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

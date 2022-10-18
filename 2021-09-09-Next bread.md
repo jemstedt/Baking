@@ -1,9 +1,4 @@
----
-title: "Planning my next bread"
-excerpt: "Main thing... lower temp"
-categories:
-  - Crafts
----
+# Planning my next bread
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

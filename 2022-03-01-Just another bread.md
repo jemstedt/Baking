@@ -1,9 +1,4 @@
----
-title: "Just another bread"
-excerpt: "Because I like bread"
-categories:
-  - Crafts
----
+# Just another bread
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

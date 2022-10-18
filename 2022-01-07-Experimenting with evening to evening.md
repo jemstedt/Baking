@@ -1,9 +1,4 @@
----
-title: "Experimenting with eventing to evening"
-excerpt: "And it works great!"
-categories:
-  - Crafts
----
+# Experimenting with eventing to evening
 
 ## Day 1
 ### Feeding the starter during the morning

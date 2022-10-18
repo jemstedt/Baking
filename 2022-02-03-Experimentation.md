@@ -1,9 +1,4 @@
----
-title: "Experimentation"
-excerpt: "I excluded the spraying of the bread to make steam - it worked great"
-categories:
-  - Crafts
----
+# Experimentation
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1

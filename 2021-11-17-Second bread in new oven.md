@@ -1,9 +1,4 @@
----
-title: "Second bread in the new oven"
-excerpt: "Still looking good"
-categories:
-  - Crafts
----
+# Second bread in the new oven
 
 ## Day 1: Feeding sourdough starter
 ### Feeding the starter during the evening day 1
